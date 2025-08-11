@@ -20,6 +20,9 @@ A 2D space shooter game built with Python and Pygame.
 
 - Python 3.10+
 - Pygame 2.6+
+<<<<<<< HEAD
 ## 🎥 Gameplay Preview
 ![Gameplay Demo](assets/gameplay.gif)
+=======
+>>>>>>> 04bc68dade20449c323bc9ba257b0398cd80baab
 
